@@ -1,0 +1,15 @@
+C:\Документы\.GeekBrains\VS\C#\Three_day_HomeWork\uno\bin\Debug\net6.0\uno.exe
+C:\Документы\.GeekBrains\VS\C#\Three_day_HomeWork\uno\bin\Debug\net6.0\uno.deps.json
+C:\Документы\.GeekBrains\VS\C#\Three_day_HomeWork\uno\bin\Debug\net6.0\uno.runtimeconfig.json
+C:\Документы\.GeekBrains\VS\C#\Three_day_HomeWork\uno\bin\Debug\net6.0\uno.dll
+C:\Документы\.GeekBrains\VS\C#\Three_day_HomeWork\uno\bin\Debug\net6.0\uno.pdb
+C:\Документы\.GeekBrains\VS\C#\Three_day_HomeWork\uno\obj\Debug\net6.0\uno.csproj.AssemblyReference.cache
+C:\Документы\.GeekBrains\VS\C#\Three_day_HomeWork\uno\obj\Debug\net6.0\uno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Документы\.GeekBrains\VS\C#\Three_day_HomeWork\uno\obj\Debug\net6.0\uno.AssemblyInfoInputs.cache
+C:\Документы\.GeekBrains\VS\C#\Three_day_HomeWork\uno\obj\Debug\net6.0\uno.AssemblyInfo.cs
+C:\Документы\.GeekBrains\VS\C#\Three_day_HomeWork\uno\obj\Debug\net6.0\uno.csproj.CoreCompileInputs.cache
+C:\Документы\.GeekBrains\VS\C#\Three_day_HomeWork\uno\obj\Debug\net6.0\uno.dll
+C:\Документы\.GeekBrains\VS\C#\Three_day_HomeWork\uno\obj\Debug\net6.0\refint\uno.dll
+C:\Документы\.GeekBrains\VS\C#\Three_day_HomeWork\uno\obj\Debug\net6.0\uno.pdb
+C:\Документы\.GeekBrains\VS\C#\Three_day_HomeWork\uno\obj\Debug\net6.0\uno.genruntimeconfig.cache
+C:\Документы\.GeekBrains\VS\C#\Three_day_HomeWork\uno\obj\Debug\net6.0\ref\uno.dll
