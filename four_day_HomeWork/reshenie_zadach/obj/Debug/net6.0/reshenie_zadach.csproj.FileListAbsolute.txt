@@ -1,0 +1,15 @@
+C:\Документы\.GeekBrains\VS\C#\four_day_HomeWork\reshenie_zadach\bin\Debug\net6.0\reshenie_zadach.exe
+C:\Документы\.GeekBrains\VS\C#\four_day_HomeWork\reshenie_zadach\bin\Debug\net6.0\reshenie_zadach.deps.json
+C:\Документы\.GeekBrains\VS\C#\four_day_HomeWork\reshenie_zadach\bin\Debug\net6.0\reshenie_zadach.runtimeconfig.json
+C:\Документы\.GeekBrains\VS\C#\four_day_HomeWork\reshenie_zadach\bin\Debug\net6.0\reshenie_zadach.dll
+C:\Документы\.GeekBrains\VS\C#\four_day_HomeWork\reshenie_zadach\bin\Debug\net6.0\reshenie_zadach.pdb
+C:\Документы\.GeekBrains\VS\C#\four_day_HomeWork\reshenie_zadach\obj\Debug\net6.0\reshenie_zadach.csproj.AssemblyReference.cache
+C:\Документы\.GeekBrains\VS\C#\four_day_HomeWork\reshenie_zadach\obj\Debug\net6.0\reshenie_zadach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Документы\.GeekBrains\VS\C#\four_day_HomeWork\reshenie_zadach\obj\Debug\net6.0\reshenie_zadach.AssemblyInfoInputs.cache
+C:\Документы\.GeekBrains\VS\C#\four_day_HomeWork\reshenie_zadach\obj\Debug\net6.0\reshenie_zadach.AssemblyInfo.cs
+C:\Документы\.GeekBrains\VS\C#\four_day_HomeWork\reshenie_zadach\obj\Debug\net6.0\reshenie_zadach.csproj.CoreCompileInputs.cache
+C:\Документы\.GeekBrains\VS\C#\four_day_HomeWork\reshenie_zadach\obj\Debug\net6.0\reshenie_zadach.dll
+C:\Документы\.GeekBrains\VS\C#\four_day_HomeWork\reshenie_zadach\obj\Debug\net6.0\refint\reshenie_zadach.dll
+C:\Документы\.GeekBrains\VS\C#\four_day_HomeWork\reshenie_zadach\obj\Debug\net6.0\reshenie_zadach.pdb
+C:\Документы\.GeekBrains\VS\C#\four_day_HomeWork\reshenie_zadach\obj\Debug\net6.0\reshenie_zadach.genruntimeconfig.cache
+C:\Документы\.GeekBrains\VS\C#\four_day_HomeWork\reshenie_zadach\obj\Debug\net6.0\ref\reshenie_zadach.dll
