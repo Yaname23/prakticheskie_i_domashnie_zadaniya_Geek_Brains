@@ -1,0 +1,14 @@
+C:\Документы\.GeekBrains\VS\C#\six_day\homeWork_k uroku6\bin\Debug\net7.0\homeWork_k uroku6.exe
+C:\Документы\.GeekBrains\VS\C#\six_day\homeWork_k uroku6\bin\Debug\net7.0\homeWork_k uroku6.deps.json
+C:\Документы\.GeekBrains\VS\C#\six_day\homeWork_k uroku6\bin\Debug\net7.0\homeWork_k uroku6.runtimeconfig.json
+C:\Документы\.GeekBrains\VS\C#\six_day\homeWork_k uroku6\bin\Debug\net7.0\homeWork_k uroku6.dll
+C:\Документы\.GeekBrains\VS\C#\six_day\homeWork_k uroku6\bin\Debug\net7.0\homeWork_k uroku6.pdb
+C:\Документы\.GeekBrains\VS\C#\six_day\homeWork_k uroku6\obj\Debug\net7.0\homeWork_k uroku6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Документы\.GeekBrains\VS\C#\six_day\homeWork_k uroku6\obj\Debug\net7.0\homeWork_k uroku6.AssemblyInfoInputs.cache
+C:\Документы\.GeekBrains\VS\C#\six_day\homeWork_k uroku6\obj\Debug\net7.0\homeWork_k uroku6.AssemblyInfo.cs
+C:\Документы\.GeekBrains\VS\C#\six_day\homeWork_k uroku6\obj\Debug\net7.0\homeWork_k uroku6.csproj.CoreCompileInputs.cache
+C:\Документы\.GeekBrains\VS\C#\six_day\homeWork_k uroku6\obj\Debug\net7.0\homeWork_k uroku6.dll
+C:\Документы\.GeekBrains\VS\C#\six_day\homeWork_k uroku6\obj\Debug\net7.0\refint\homeWork_k uroku6.dll
+C:\Документы\.GeekBrains\VS\C#\six_day\homeWork_k uroku6\obj\Debug\net7.0\homeWork_k uroku6.pdb
+C:\Документы\.GeekBrains\VS\C#\six_day\homeWork_k uroku6\obj\Debug\net7.0\homeWork_k uroku6.genruntimeconfig.cache
+C:\Документы\.GeekBrains\VS\C#\six_day\homeWork_k uroku6\obj\Debug\net7.0\ref\homeWork_k uroku6.dll
