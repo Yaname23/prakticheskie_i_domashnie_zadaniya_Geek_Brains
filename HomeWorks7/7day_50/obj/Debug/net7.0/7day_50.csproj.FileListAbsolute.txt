@@ -1,0 +1,14 @@
+C:\Документы\.GeekBrains\VS\C#\HomeWorks\7day_50\bin\Debug\net7.0\7day_50.exe
+C:\Документы\.GeekBrains\VS\C#\HomeWorks\7day_50\bin\Debug\net7.0\7day_50.deps.json
+C:\Документы\.GeekBrains\VS\C#\HomeWorks\7day_50\bin\Debug\net7.0\7day_50.runtimeconfig.json
+C:\Документы\.GeekBrains\VS\C#\HomeWorks\7day_50\bin\Debug\net7.0\7day_50.dll
+C:\Документы\.GeekBrains\VS\C#\HomeWorks\7day_50\bin\Debug\net7.0\7day_50.pdb
+C:\Документы\.GeekBrains\VS\C#\HomeWorks\7day_50\obj\Debug\net7.0\7day_50.GeneratedMSBuildEditorConfig.editorconfig
+C:\Документы\.GeekBrains\VS\C#\HomeWorks\7day_50\obj\Debug\net7.0\7day_50.AssemblyInfoInputs.cache
+C:\Документы\.GeekBrains\VS\C#\HomeWorks\7day_50\obj\Debug\net7.0\7day_50.AssemblyInfo.cs
+C:\Документы\.GeekBrains\VS\C#\HomeWorks\7day_50\obj\Debug\net7.0\7day_50.csproj.CoreCompileInputs.cache
+C:\Документы\.GeekBrains\VS\C#\HomeWorks\7day_50\obj\Debug\net7.0\7day_50.dll
+C:\Документы\.GeekBrains\VS\C#\HomeWorks\7day_50\obj\Debug\net7.0\refint\7day_50.dll
+C:\Документы\.GeekBrains\VS\C#\HomeWorks\7day_50\obj\Debug\net7.0\7day_50.pdb
+C:\Документы\.GeekBrains\VS\C#\HomeWorks\7day_50\obj\Debug\net7.0\7day_50.genruntimeconfig.cache
+C:\Документы\.GeekBrains\VS\C#\HomeWorks\7day_50\obj\Debug\net7.0\ref\7day_50.dll
