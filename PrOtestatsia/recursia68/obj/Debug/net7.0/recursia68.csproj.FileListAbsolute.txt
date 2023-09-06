@@ -1,0 +1,14 @@
+C:\Документы\.GeekBrains\VS\C#\PrOtestatsia\recursia68\obj\Debug\net7.0\recursia68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Документы\.GeekBrains\VS\C#\PrOtestatsia\recursia68\obj\Debug\net7.0\recursia68.AssemblyInfoInputs.cache
+C:\Документы\.GeekBrains\VS\C#\PrOtestatsia\recursia68\obj\Debug\net7.0\recursia68.AssemblyInfo.cs
+C:\Документы\.GeekBrains\VS\C#\PrOtestatsia\recursia68\obj\Debug\net7.0\recursia68.csproj.CoreCompileInputs.cache
+C:\Документы\.GeekBrains\VS\C#\PrOtestatsia\recursia68\bin\Debug\net7.0\recursia68.exe
+C:\Документы\.GeekBrains\VS\C#\PrOtestatsia\recursia68\bin\Debug\net7.0\recursia68.deps.json
+C:\Документы\.GeekBrains\VS\C#\PrOtestatsia\recursia68\bin\Debug\net7.0\recursia68.runtimeconfig.json
+C:\Документы\.GeekBrains\VS\C#\PrOtestatsia\recursia68\bin\Debug\net7.0\recursia68.dll
+C:\Документы\.GeekBrains\VS\C#\PrOtestatsia\recursia68\bin\Debug\net7.0\recursia68.pdb
+C:\Документы\.GeekBrains\VS\C#\PrOtestatsia\recursia68\obj\Debug\net7.0\recursia68.dll
+C:\Документы\.GeekBrains\VS\C#\PrOtestatsia\recursia68\obj\Debug\net7.0\refint\recursia68.dll
+C:\Документы\.GeekBrains\VS\C#\PrOtestatsia\recursia68\obj\Debug\net7.0\recursia68.pdb
+C:\Документы\.GeekBrains\VS\C#\PrOtestatsia\recursia68\obj\Debug\net7.0\recursia68.genruntimeconfig.cache
+C:\Документы\.GeekBrains\VS\C#\PrOtestatsia\recursia68\obj\Debug\net7.0\ref\recursia68.dll
